@@ -1,7 +1,15 @@
-![cover](.github/cover.png?style=flat)
 
 ## 💻 Projeto
-Aplicativo simples de controle de tarefas, onde você poderá criar tarefas à serem feitas para posteriormente marcar elas como feitas.
+<h2 id="CHAPTERII">
+  Todo List
+</a>
+<div align="justify">
+
+ <br>
+   <p>
+    <img width="600" height"700" src="assets/new_todo_list.png">
+  </p>
+<br>
 
 ## ✨ Tecnologias
 
@@ -11,22 +19,6 @@ Aplicativo simples de controle de tarefas, onde você poderá criar tarefas à s
 
 ## Executando o projeto
 
-Caso queira executar o projeto.
+*yarn install || npm install
 
-Utilize o **yarn** ou **npm install** para instalar as dependências do projeto.
-
-Em seguida, inicie o projeto.<br/>
-
-```cl
-expo start
-```
-
-## 📄 Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
----
-
-Feito por Rafael Quartaroli por meio do curso Ignite da [Rocketseat](https://www.rocketseat.com.br/).
-
-<br />
+*expo start
